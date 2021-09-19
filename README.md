@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, Aryan Singh here 😄
 
-<!--
-**chipper1211/chipper1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently pursuing Bachelors in Computer Science from Kalinga Institute of Industrial Technology ( KIIT )
+- 🌱 I’m currently learning Data Structures and Algorithms 
+- 👯 I’m looking to collaborate on Linkedin and Youtube as well
+- 🤔 I’m looking for help with Data Strcutres and Web Development
+- 💬 Ask me about basic coding related queries and skills
+- 📫 How to reach me: Linkedin : https://www.linkedin.com/in/aryan-singh-49b12a1b7/ Instagram : https://www.instagram.com/aryan.singh_12/
+- 😄 Pronouns: He / His
+- ⚡ Fun fact: QWERTY keyboard was designed to slow down the typing speed 
 -->
+
+
+<img src = "https://github-readme-stats.vercel.app/api?username=chipper1211&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
