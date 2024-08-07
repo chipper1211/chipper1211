@@ -1,7 +1,6 @@
 ### Hi there, Aryan Singh here 😄
 
 - 🔭 I’m currently pursuing Bachelors in Computer Science from Kalinga Institute of Industrial Technology ( KIIT )
-- 🌱 I’m currently learning Data Structures and Algorithms 
 - 👯 I’m looking to collaborate on Linkedin and Youtube as well
 - 🤔 I’m looking for internships on Data Science and related roles
 - 💬 Ask me about basic coding related queries and skills
